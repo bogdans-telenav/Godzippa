@@ -21,9 +21,6 @@
 // THE SOFTWARE.
 
 #import <Foundation/Foundation.h>
-
-#import <zlib.h>
-
 /**
  Godzippa provides a category on `NSData` to inflate and deflate data using gzip compression.
  */

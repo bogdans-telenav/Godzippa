@@ -22,3 +22,11 @@
 
 #import "NSData+Godzippa.h"
 #import "NSFileManager+Godzippa.h"
+
+//! Project version number for Godzippa.
+FOUNDATION_EXPORT double Godzippa_FrameworkVersionNumber;
+
+//! Project version string for Godzippa.
+FOUNDATION_EXPORT const unsigned char Godzippa_FrameworkVersionString[];
+
+// In this header, you should import all the public headers of your framework using statements like #import <Godzippa_Framework/PublicHeader.h>
