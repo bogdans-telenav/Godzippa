@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:Godzippa Framework/Godzippa Framework.xcodeproj">
+      location = "group:GodzippaFramework/GodzippaFramework.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Example/Godzippa Example.xcodeproj">
